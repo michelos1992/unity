@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab5Animacje.Plugins", "lab5Animacje.Plugins.csproj", "{9BD257C9-680C-6060-93B5-820E15CAF325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab5Animacje", "lab5Animacje.csproj", "{17B894ED-D531-51A0-E8B7-EF9E20B8B8DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab5Animacje.Editor.Plugins", "lab5Animacje.Editor.Plugins.csproj", "{70982898-5420-AFB1-B4ED-EFF7359C3FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BD257C9-680C-6060-93B5-820E15CAF325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD257C9-680C-6060-93B5-820E15CAF325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD257C9-680C-6060-93B5-820E15CAF325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD257C9-680C-6060-93B5-820E15CAF325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B894ED-D531-51A0-E8B7-EF9E20B8B8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B894ED-D531-51A0-E8B7-EF9E20B8B8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B894ED-D531-51A0-E8B7-EF9E20B8B8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B894ED-D531-51A0-E8B7-EF9E20B8B8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70982898-5420-AFB1-B4ED-EFF7359C3FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70982898-5420-AFB1-B4ED-EFF7359C3FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70982898-5420-AFB1-B4ED-EFF7359C3FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70982898-5420-AFB1-B4ED-EFF7359C3FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
